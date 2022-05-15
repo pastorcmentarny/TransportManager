@@ -1,0 +1,112 @@
+Acton Central;;P;;2022-04-28;;none;;none;;N
+Anerley;;P;;2022-04-28;;none;;none;;N
+Barking;;P;;2022-04-28;;none;;none;;N
+Battersea Park;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Bethnal Green;;P;;2022-04-28;;none;;none;;N
+Blackhorse Road;;P;;2022-04-28;;none;;none;;N
+Brockley;;P;;2022-04-28;;none;;none;;N
+Brondesbury Park;;P;;2022-04-28;;none;;none;;N
+Brondesbury;;P;;2022-04-28;;none;;none;;N
+Bruce Grove;;P;;2022-04-28;;none;;none;;N
+Bush Hill Park;;P;;2022-04-28;;none;;none;;N
+Bushey;;V;;2021-04-25;;2021-04-25;;2022-04-25;;N
+Caledonian Road & Barnsbury;;P;;2022-04-28;;none;;none;;N
+Cambridge Heath;;P;;2022-04-28;;none;;none;;N
+Camden Road;;P;;2022-04-28;;none;;none;;N
+Canada Water;;P;;2022-04-28;;none;;none;;N
+Canonbury;;P;;2022-04-28;;none;;none;;N
+Carpenders Park;;P;;2021-04-25;;2021-04-25;;none;;N
+Cheshunt;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Chingford;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Clapham High Street;;V;;2022-04-28;;none;;none;;N
+Clapham Junction;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Clapton;;P;;2022-04-28;;none;;none;;N
+Crouch Hill;;P;;2022-04-28;;none;;none;;N
+Crystal Palace;;P;;2022-04-28;;none;;none;;N
+Dalston Junction;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Dalston Kingsland;;P;;2022-04-28;;none;;none;;N
+Denmark Hill;;P;;2022-04-28;;none;;none;;N
+Edmonton Green;;P;;2022-04-28;;none;;none;;N
+Emerson Park;;P;;2022-04-28;;none;;none;;N
+Enfield Town;;P;;2022-04-28;;none;;none;;N
+Euston;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Finchley Road & Frognal;;P;;2022-04-28;;none;;none;;N
+Forest Hill;;P;;2022-04-28;;none;;none;;N
+Gospel Oak;;P;;2022-04-28;;none;;none;;N
+Gunnersbury;;P;;2022-04-28;;none;;none;;N
+Hackney Central;;P;;2022-04-28;;none;;none;;N
+Hackney Downs;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Hackney Wick;;P;;2022-04-28;;none;;none;;N
+Haggerston;;P;;2022-04-28;;none;;none;;N
+Hampstead Heath;;P;;2022-04-28;;none;;none;;N
+Harlesden;;P;;2021-05-09;;none;;none;;N
+Harringay Green Lanes;;P;;2022-04-28;;none;;none;;N
+Harrow & Wealdstone;;P;;2021-05-09;;none;;none;;N
+Hatch End;;V;;2021-04-25;;2021-04-25;;none;;N
+Headstone Lane;;P;;2021-05-09;;none;;none;;N
+Highams Park;;P;;2022-04-28;;none;;none;;N
+Highbury & Islington;;P;;2022-04-28;;none;;none;;N
+Homerton;;P;;2022-04-28;;none;;none;;N
+Honor Oak Park;;P;;2022-04-28;;none;;none;;N
+Hoxton;;P;;2022-04-28;;none;;none;;N
+Imperial Wharf;;P;;2022-04-28;;none;;none;;N
+Kensal Green;;P;;2021-05-09;;none;;none;;N
+Kensal Rise;;P;;2022-04-28;;none;;none;;N
+Kensington (Olympia);;V;;2021-05-09;;2021-05-09;;2022-03-20;;N
+Kentish Town West;;P;;2022-04-28;;none;;none;;N
+Kenton;;P;;2021-05-09;;none;;none;;N
+Kew Gardens;;P;;2022-04-28;;none;;none;;N
+Kilburn High Road;;P;;2022-04-28;;none;;none;;N
+Leyton Midland Road;;P;;2022-04-28;;none;;none;;N
+Leytonstone High Road;;P;;2022-04-28;;none;;none;;N
+London Fields;;P;;2022-04-28;;none;;none;;N
+Liverpool Street;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+New Cross Gate;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+New Cross;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+North Wembley;;P;;2021-05-09;;none;;none;;N
+Norwood Junction;;P;;2022-04-28;;none;;none;;N
+Peckham Rye;;P;;2022-04-28;;none;;none;;N
+Penge West;;P;;2022-04-28;;none;;none;;N
+Queen's Park;;P;;2021-05-09;;none;;none;;N
+Queens Road Peckham;;P;;2022-04-28;;none;;none;;N
+Rectory Road;;P;;2022-04-28;;none;;none;;N
+Richmond;;P;;2022-04-28;;none;;none;;N
+Romford;;P;;2022-04-28;;none;;none;;N
+Rotherhithe;;P;;2022-04-28;;none;;none;;N
+St. James Street;;P;;2022-04-28;;none;;none;;N
+Seven Sisters;;P;;2022-04-28;;none;;none;;N
+Shadwell;;P;;2022-04-28;;none;;none;;N
+Shepherd's Bush;;P;;2021-05-09;;none;;none;;N
+Shoreditch High Street;;P;;2022-04-28;;none;;none;;N
+Silver Street;;P;;2022-04-28;;none;;none;;N
+South Acton;;P;;2022-04-28;;none;;none;;N
+South Hampstead;;P;;2022-04-28;;none;;none;;N
+South Kenton;;P;;2021-05-09;;none;;none;;N
+South Tottenham;;P;;2022-04-28;;none;;none;;N
+Southbury;;P;;2022-04-28;;none;;none;;N
+Stamford Hill;;P;;2022-04-28;;none;;none;;N
+Stoke Newington;;P;;2022-04-28;;none;;none;;N
+Stonebridge Park;;P;;2021-05-09;;none;;none;;N
+Stratford;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Surrey Quays;;P;;2022-04-28;;none;;none;;N
+Sydenham;;P;;2022-04-28;;none;;none;;N
+Theobalds Grove;;P;;2022-04-28;;none;;none;;N
+Turkey Street;;P;;2022-04-28;;none;;none;;N
+Upminster;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Upper Holloway;;P;;2022-04-28;;none;;none;;N
+Walthamstow Central;;P;;2022-04-28;;none;;none;;N
+Walthamstow Queen's Road;;P;;2022-04-28;;none;;none;;N
+Wandsworth Road;;V;;2022-04-28;;2022-04-28;;2022-04-28;;N
+Wanstead Park;;P;;2022-04-28;;none;;none;;N
+Wapping;;P;;2022-04-28;;none;;none;;N
+Watford High Street;;P;;2021-04-25;;2021-04-25;;none;;N
+Watford Junction;;V;;2021-04-25;;2021-04-25;;2022-03-20;;N
+Wembley Central;;P;;2021-05-09;;none;;none;;N
+West Brompton;;P;;2022-04-28;;none;;none;;N
+West Croydon;;P;;2022-04-28;;none;;none;;N
+West Hampstead;;P;;2022-04-28;;none;;none;;N
+White Hart Lane;;P;;2022-04-28;;none;;none;;N
+Whitechapel;;P;;2022-04-28;;none;;none;;N
+Willesden Junction;;P;;2021-05-09;;none;;none;;N
+Wood Street;;P;;2022-04-28;;none;;none;;N
+Woodgrange Park;;P;;2022-04-28;;none;;none;;N
